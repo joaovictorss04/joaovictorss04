@@ -1,16 +1,90 @@
-## Hi there 👋
+# 📊 João victor
 
-<!--
-**joaovictorss04/joaovictorss04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analise de dados / Desenvolvedor Python`**
 
-Here are some ideas to get you started:
+Analista de Dados com mais de 3 anos de experiência no setor sucroenergético, especializado em transformar dados operacionais em decisões concretas. Construo desde a consulta SQL até o painel executivo e quando o processo não existe, desenvolvo a solução em Python.
+ 
+Tenho experiência prática com Power BI, Tableau, SQL avançado e automações em Python, sempre com foco em resolver problemas reais de negócio, não apenas entregar relatórios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você também pode me encontrar no LinkedIn: '[Meu Perfil](www.linkedin.com/in/joaovictorslv)". 
+
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/> 
+
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/power-bi.png" 
+/>
+<img 
+    align="left" 
+x    alt="Oracle" 
+    title="Oracle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/oracle-logo.png" 
+/>
+<img 
+    align="left" 
+    alt="Tableau" 
+    title="Tableau"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/tableau-software.png" 
+/>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+
+
