@@ -6,7 +6,7 @@ Analista de Dados com mais de 3 anos de experiência no setor sucroenergético, 
  
 Tenho experiência prática com Power BI, Tableau, SQL avançado e automações em Python, sempre com foco em resolver problemas reais de negócio, não apenas entregar relatórios.
 
-Você também pode me encontrar no LinkedIn: '[Meu Perfil](www.linkedin.com/in/joaovictorslv)". 
+Você também pode me encontrar no LinkedIn: '[Meu Perfil](https://www.linkedin.com/in/joaovictorslv/?skipRedirect=true)". 
 
 
 ---
