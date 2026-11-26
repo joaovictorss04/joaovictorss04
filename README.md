@@ -15,7 +15,7 @@
 
 ### Sobre
 
-- Analista de Planejamento na **Raízen**, atuando com planejamento agrícola e inteligência climática.
+- Analista de Planejamento na **Raízen**, com foco em planejamento agrícola e inteligência climática.
 - 6 anos no setor sucroenergético: insumos, operações agrícolas, ordens de serviço, frota e indicadores.
 - Integro dados de **SAP, TOTVS, PIMS e SQL Server** até chegar no painel que a operação realmente usa.
 - Quando a ferramenta não existe, eu desenvolvo — em Python, SQL ou web.
@@ -23,11 +23,11 @@
 
 ---
 
-### O que estou construindo
+### Projetos
 
 | Projeto | O que é | Status |
 |---|---|---|
-| **PARSEC** | Plataforma gratuita de inteligência hídrica: balanço hídrico sequencial + chuva e previsão → disponibilidade operacional de fazendas | Em desenvolvimento |
+| **[PARSEC](https://github.com/joaovictorss04/PARSEC)** | Plataforma gratuita de inteligência hídrica: balanço hídrico sequencial + chuva e previsão → disponibilidade operacional de fazendas | Em desenvolvimento |
 | **Vorion** | Plataforma modular de gestão para operações agrícolas: estoque de insumos, ordens de serviço e suprimentos · React, Node.js, PostgreSQL | Módulo de estoque em uso · suprimentos em planejamento |
 
 ---
