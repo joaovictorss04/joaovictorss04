@@ -29,5 +29,5 @@ Comecei no controle de insumos, frota e ordens de serviço de uma usina. Hoje tr
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaovictorslv">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/joaovictorslv">LinkedIn</a> 
 </p>
