@@ -1,71 +1,51 @@
-# 📊 João victor
+<h1 align="center">João Victor da Silva</h1>
 
-**`Analise de dados / Desenvolvedor Python`**
+<p align="center">
+  <b>Planejamento, dados e inteligência climática no agro</b><br>
+  <i>Transformando dados em decisões</i>
+</p>
 
-Analista de Dados com mais de 3 anos de experiência no setor sucroenergético, especializado em transformar dados operacionais em decisões concretas. Construo desde a consulta SQL até o painel executivo e quando o processo não existe, desenvolvo a solução em Python.
- 
-Tenho experiência prática com Power BI, Tableau, SQL avançado e automações em Python, sempre com foco em resolver problemas reais de negócio, não apenas entregar relatórios.
-
-Você também pode me encontrar no LinkedIn: '[Meu Perfil](https://www.linkedin.com/in/joaovictorslv/?skipRedirect=true)". 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaovictorslv"><img src="https://img.shields.io/badge/LinkedIn-joaovictorslv-0A66C2?style=flat-square" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Iracemápolis--SP-Brasil-2E7D32?style=flat-square" alt="Iracemápolis-SP">
+  <img src="https://img.shields.io/badge/setor-sucroenergético-6D4C41?style=flat-square" alt="Setor sucroenergético">
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Sobre
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/> 
+- Analista de Planejamento na **Raízen**, atuando com planejamento agrícola e inteligência climática.
+- 6 anos no setor sucroenergético: insumos, operações agrícolas, ordens de serviço, frota e indicadores.
+- Integro dados de **SAP, TOTVS, PIMS e SQL Server** até chegar no painel que a operação realmente usa.
+- Quando a ferramenta não existe, eu desenvolvo — em Python, SQL ou web.
+- Cursando Análise e Desenvolvimento de Sistemas (Anhembi Morumbi).
 
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PowerBI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/power-bi.png" 
-/>
-<img 
-    align="left" 
-x    alt="Oracle" 
-    title="Oracle"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/oracle-logo.png" 
-/>
-<img 
-    align="left" 
-    alt="Tableau" 
-    title="Tableau"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/tableau-software.png" 
-/>
-<br/>
-<br/>
+### O que estou construindo
+
+| Projeto | O que é | Status |
+|---|---|---|
+| **PARSEC** | Plataforma gratuita de inteligência hídrica: balanço hídrico sequencial + chuva e previsão → disponibilidade operacional de fazendas | Em desenvolvimento |
+| **Vorion** | Plataforma modular de gestão para operações agrícolas: estoque de insumos, ordens de serviço e suprimentos · React, Node.js, PostgreSQL | Módulo de estoque em uso · suprimentos em planejamento |
+
+---
+
+### Ferramentas
+
+| Área | O que uso |
+|---|---|
+| **BI e análise** | Power BI · DAX · Power Query (M) · Excel avançado · modelagem Star Schema |
+| **Dados** | SQL Server · PostgreSQL · SQLite · SSIS · Python (pandas) · PySpark |
+| **Cloud** | Azure Data Lake · Azure Synapse · SAP Datasphere |
+| **ERP e agro** | SAP S/4HANA (MM/PM) · TOTVS · PIMS |
+| **Clima e geodados** | Balanço hídrico (Thornthwaite-Mather) · CHIRPS · NOAA/NMME · NASA POWER · Google Earth Engine |
+| **Desenvolvimento** | Python · Node.js · React · Java · Git |
+
+---
+
+<p align="center">
+  Aberto a conversas sobre dados, BI e tecnologia aplicada ao agro.<br>
+  <a href="https://www.linkedin.com/in/joaovictorslv">Fale comigo no LinkedIn</a>
 </p>
-
-
-
